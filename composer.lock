@@ -2715,16 +2715,16 @@
         },
         {
             "name": "wp-phpunit/wp-phpunit",
-            "version": "6.0.2",
+            "version": "6.5.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/wp-phpunit/wp-phpunit.git",
-                "reference": "88c786f68c6abe1061f9e40f5e8b299e41a50287"
+                "reference": "ef2cb44c0d991ac0c3a7a3ed0d2d1cf3fe8d8f2f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/wp-phpunit/wp-phpunit/zipball/88c786f68c6abe1061f9e40f5e8b299e41a50287",
-                "reference": "88c786f68c6abe1061f9e40f5e8b299e41a50287",
+                "url": "https://api.github.com/repos/wp-phpunit/wp-phpunit/zipball/ef2cb44c0d991ac0c3a7a3ed0d2d1cf3fe8d8f2f",
+                "reference": "ef2cb44c0d991ac0c3a7a3ed0d2d1cf3fe8d8f2f",
                 "shasum": ""
             },
             "type": "library",
@@ -2759,7 +2759,7 @@
                 "issues": "https://github.com/wp-phpunit/issues",
                 "source": "https://github.com/wp-phpunit/wp-phpunit"
             },
-            "time": "2022-08-30T21:14:52+00:00"
+            "time": "2024-05-07T16:46:52+00:00"
         },
         {
             "name": "yoast/phpunit-polyfills",
@@ -2833,5 +2833,5 @@
     "platform-overrides": {
         "php": "7.4.24"
     },
-    "plugin-api-version": "2.3.0"
+    "plugin-api-version": "2.6.0"
 }
